@@ -2,6 +2,13 @@
 
 Interactive regular expression tester with live highlighting and match extraction.
 
+
+## 🚀 Live Demo
+
+Coba aplikasi secara langsung: [regex-playground](https://personalbotai.github.io/regex-playground/)
+
+[![Deploy to GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-blue?logo=github)](https://personalbotai.github.io/regex-playground/)
+
 ## Features
 - Real-time regex testing with live results
 - Support for all JavaScript regex flags (g, i, m, s, u, y)
